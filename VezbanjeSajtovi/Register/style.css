@@ -141,6 +141,36 @@ input{
     background-color: rgb(38, 65, 160);
 }
 
+.tologinbtn{
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(47, 80, 201);
+    color: white;
+    font-size: 28px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: none;
+}
+
+.tologinbtn:hover{
+    cursor: pointer;
+    background-color: rgb(38, 65, 160);    
+}
+
+.tologinh2{
+    color: white;
+    font-weight: 100;
+    margin-top: 20px;
+}
+
+.tologina{
+    color: white;
+    text-decoration: none;
+}
+
 /* Footer */
 
 footer{
